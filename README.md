@@ -1,8 +1,6 @@
 
 # 🌐 Universal AMC Sens Converter
 
-**Author**: PythonP Software
-
 ## Overview
 
 This script modifies the sensitivity of movement commands in `.amc` files. By applying multipliers to the x and y movements, the script adjusts the sensitivity from an original value to a new desired value.
@@ -34,7 +32,7 @@ This script modifies the sensitivity of movement commands in `.amc` files. By ap
 ## Example 📋
 
 ```python
-Universal AMC Sens Converter Made by PythonP Software.
+Universal AMC Sens Converter Made by Boran.
 ```
 
 1. A browser window will open directing you to [boranozel.com](https://boranozel.com/).
@@ -48,8 +46,3 @@ Universal AMC Sens Converter Made by PythonP Software.
 - Ensure your `.amc` file is in the same directory as the script or provide the full path.
 - The script tries to read the file with UTF-16 LE encoding but will attempt to read without specifying encoding if it fails.
 
-
-
-## Acknowledgements 🙏
-
-- Thanks to PythonP Software for creating this script.
