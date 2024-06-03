@@ -37,7 +37,7 @@ This script modifies the sensitivity of movement commands in `.amc` files. By ap
 Universal AMC Sens Converter Made by PythonP Software.
 ```
 
-1. A browser window will open directing you to [pythonp.xyz](http://pythonp.xyz).
+1. A browser window will open directing you to [boranozel.com](https://boranozel.com/).
 
 2. You will be prompted to enter the name of your `.amc` file (without the extension), the original sensitivity, and the new sensitivity.
 
