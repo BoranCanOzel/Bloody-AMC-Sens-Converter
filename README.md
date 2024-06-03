@@ -48,9 +48,7 @@ Universal AMC Sens Converter Made by PythonP Software.
 - Ensure your `.amc` file is in the same directory as the script or provide the full path.
 - The script tries to read the file with UTF-16 LE encoding but will attempt to read without specifying encoding if it fails.
 
-## License 📄
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements 🙏
 
