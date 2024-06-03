@@ -1,8 +1,8 @@
 import webbrowser
 from datetime import datetime
 
-print("Universal AMC Sens Converter Made by PythonP Software.")
-webbrowser.open('http://pythonp.xyz')  # Open the website
+print("Universal AMC Sens Converter Made by Boran Ozel.")
+webbrowser.open('https://boranozel.com/')  # Open the website
 
 
 def apply_multipliers_to_movements(input_file_name, original_sens, new_sens):
